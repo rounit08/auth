@@ -1,0 +1,38 @@
+.displayImage {
+  margin-top: 100px;
+  width: 150px;
+  border-radius: 50%;
+  margin-left: 420px;
+}
+
+.buttonSignout {
+  color: black;
+  background-color: grey;
+  height: 50px;
+  width: 200px;
+  font-weight: bold;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 100px;
+  border: 1px;
+  margin-left: 400px;
+}
+
+.displayText {
+  color: white;
+  margin-top: 100px;
+  margin-left: 300px;
+  align-items: center;
+}
+
+.buttonSignout:hover {
+  background-color: black;
+  color: white;
+}
+
+.display {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  size: 50px;
+}
